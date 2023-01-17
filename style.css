@@ -1,0 +1,10 @@
+#mycanvas {
+	border-width: 5px;
+	border-style: ridge;
+	border-color: aquamarine;
+	background-color: white;
+}
+.background{
+    background-image: url("bg1.jpg");
+	background-size: cover;
+}
